@@ -1,0 +1,12 @@
+{
+  "name": "node-youtrack",
+  "version": "0.0.1",
+  "description": "YouTrack API wrapper",
+  "private": true,
+  "author": "Lukas Tines <ltines@euroffice.co.uk>",
+  "license": "Apache",
+  "dependencies": {
+    "moment": "^2.9.0",
+    "q": "^1.1.2"
+  }
+}
